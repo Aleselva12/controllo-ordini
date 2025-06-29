@@ -8,8 +8,8 @@
 
 ### 1. Clone and Setup
 ```bash
-git clone <your-repo-url>
-cd lavoro
+git clone https://github.com/YOUR_USERNAME/controllo-ordini.git
+cd controllo-ordini
 ```
 
 ### 2. Activate Virtual Environment
