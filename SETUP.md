@@ -8,7 +8,7 @@
 
 ### 1. Clone and Setup
 ```bash
-git clone https://github.com/YOUR_USERNAME/controllo-ordini.git
+git clone https://github.com/Aleselva12/-controllo-ordini.git
 cd controllo-ordini
 ```
 

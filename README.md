@@ -4,7 +4,7 @@
 
 ## 📋 Repository GitHub
 
-🔗 **Repository**: [controllo-ordini](https://github.com/YOUR_USERNAME/controllo-ordini)
+🔗 **Repository**: [controllo-ordini](https://github.com/Aleselva12/-controllo-ordini)
 
 📅 **Creato**: Giugno 2025  
 🏷️ **Versione**: 1.0.0  
