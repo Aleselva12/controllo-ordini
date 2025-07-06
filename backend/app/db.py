@@ -43,4 +43,3 @@ if __name__ == "__main__":
 
 # Ricordati di rimuovere o commentare questa parte dopo il test!
 
-# Puoi aggiungere altre funzioni di utilità se necessario 
