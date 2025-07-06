@@ -2,6 +2,38 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.0.0] - 2025-07-06 🎯 **STABLE RELEASE**
+
+### 🔐 **Sistema Autenticazione Biforcata Completo**
+- **✅ SISTEMA OPERATIVO E TESTATO**: Frontend e Backend funzionanti
+- **Autenticazione Dual-Mode**: Password personalizzata + VAT legacy
+- **Backend FastAPI**: Endpoints completi per autenticazione avanzata
+- **Frontend Streamlit**: UI moderna con gestione stati completa
+- **Database Migration**: Colonna ANPASSWORD aggiunta e testata
+- **Security**: Hash BCrypt, validazione password, gestione errori
+
+### 🚀 **Status Servizi Attivi**
+- **Frontend**: http://localhost:8501 (Streamlit)
+- **Backend**: http://localhost:8001 (FastAPI)
+- **Database**: MSSQL con migrazione completata
+- **Repository**: GitHub push completato
+
+### ⚙️ **Componenti Implementati**
+- Enhanced authentication flow (password/VAT)
+- Password creation with real-time validation
+- Secure password hashing (bcrypt)
+- Complete error handling and user feedback
+- Session management and navigation
+- Backward compatibility with existing VAT system
+
+### 📁 **File Modificati**
+- `backend/app/API.py` - Nuovi endpoints autenticazione
+- `backend/app/crud.py` - Logica autenticazione biforcata
+- `backend/app/security.py` - Gestione sicurezza password
+- `backend/app/VALIDAZIONEDATI.py` - Modelli Pydantic
+- `frontend/app.py` - UI completa nuovo flusso
+- `backend/main.py` - Entry point corretto
+
 ## [1.0.0] - 2025-06-29
 
 ### 🎉 Initial Release
